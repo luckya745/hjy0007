@@ -1,0 +1,2845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE level1 SYSTEM "history.dtd">
+<level1 id="hg_002">
+    <front>
+        <biblioData type="원문">
+            <title>
+                <mainTitle>卷第二 流通一之二</mainTitle>
+                <seriesTitle volume="2">海東高僧傳 卷第二</seriesTitle>
+            </title>
+            <fileDesc>사업명 : 2015년 한국사데이터베이스 구축사업 | 사업자 : 서울시스템주식회사 | 구축내용 : 원문표점 및 검증</fileDesc>
+        </biblioData>
+        <description>
+            <coveragePeriod>각덕(覺德)~현대범(玄大梵)</coveragePeriod>
+        </description>
+        <illustGroup>
+            <illustration begin="hg_a_002_0001" end="hg_a_002_0022">
+                <caption>천견윤태랑본</caption>
+            </illustration>
+            <illustration begin="hg_b_002_0001" end="hg_b_002_0023">
+                <caption>국사편찬위원회본</caption>
+            </illustration>
+            <illustration begin="hg_c_002_0001" end="hg_c_002_0023">
+                <caption>중추원본</caption>
+            </illustration>
+        </illustGroup>
+    </front>
+    <level2 id="hg_002_0010">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>宣撰</mainTitle>
+                </title>
+            </biblioData>
+            <illustGroup>
+                <illustration begin="hg_a_002_0001" end="hg_a_002_0001">
+                    <caption>천견윤태랑본</caption>
+                </illustration>
+                <illustration begin="hg_b_002_0001" end="hg_b_002_0001">
+                    <caption>국사편찬위원회본</caption>
+                </illustration>
+                <illustration begin="hg_c_002_0001" end="hg_c_002_0001">
+                    <caption>중추원본</caption>
+                </illustration>
+            </illustGroup>
+        </front>
+        <text>
+            <content>
+                <paragraph align="center">海東高僧傳卷第二<annotation id="hg_002_r001" type="교감주">
+                        <noteContent>천견윤태랑본에는 第는 苐로 되어 있다. </noteContent>
+                    </annotation>
+                </paragraph>
+                <paragraph align="center">京北五冠山靈通寺住持<annotation id="hg_002_r002" type="교감주">
+                        <noteContent>한국불교전서에는 아래의 敎學……가 이어져 있다.  <illustration>
+                                <image align="center" src="hg_bgjs_002_0001"/>
+                            </illustration>
+                        </noteContent>
+                    </annotation>敎學<annotation id="hg_002_r003" type="교감주">
+                        <noteContent>규장각본, 최남선본에는 아래의 賜紫沙門……가 이어져 있다.   <illustration>
+                                <image align="center" src="hg_kyu_002_0001"/>
+                            </illustration>
+                            <illustration>
+                                <image align="center" src="hg_cns_002_0001"/>
+                            </illustration>
+                        </noteContent>
+                    </annotation>賜紫沙門 <annotation type="원주">
+                        <noteContent>臣</noteContent>
+                    </annotation>覺訓奉 宣撰</paragraph>
+                <paragraph align="center">流通一之二 </paragraph>
+            </content>
+        </text>
+    </level2>
+    <level2 id="hg_002_0020">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>目錄</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <text>
+            <content>
+                <paragraph align="center">
+                    <index type="이름">覺德</index>·                    <annotation type="원주">
+                        <noteContent>
+                            <index type="이름">明觀</index>
+                        </noteContent>
+                    </annotation>·                    <index type="이름">智明</index>·                    <annotation type="원주">
+                        <noteContent>
+                            <index type="이름">曇育</index>
+                        </noteContent>
+                    </annotation>·                    <index type="이름">圓光</index>
+                    <annotation id="hg_002_r004" type="교감주">
+                        <noteContent>조선총독부 중추원 필사본에는 圓光은 園光[園安]으로 되어 있다.  <br/>천견윤태랑본, 최남선본,  소화2년 불교사간 대동선교고 합간본에는 圓光은 圓光[圓安]으로 되어 있다.  <br/>≪삼국유사≫ 권4 의해(義解)제5 원광서학(圓光西學)과 본문의 내용으로 보아 조선총독부 중추원 필사본의 園光[園安]은 圓光[圓安]의 잘못이다.  <illustration>
+                                <image align="center" src="hg_kyu_002_0001"/>
+                            </illustration>
+                            <illustration>
+                                <image align="center" src="hg_cns_002_0002"/>
+                            </illustration>
+                            <illustration>
+                                <image align="center" src="hg_sgys_001_0011"/>
+                            </illustration>
+                        </noteContent>
+                    </annotation>·                    <index type="이름">安含</index>
+                    <annotation id="hg_002_r005" type="교감주">
+                        <noteContent>조선총독부 중추원 필사본에는 含은 舍로 되어 있다. </noteContent>
+                    </annotation>·                    <annotation type="원주">
+                        <noteContent>胡僧·漢僧·<index type="이름">曇和</index>·                            <index type="이름">安和</index>
+                        </noteContent>
+                    </annotation>
+                    <annotation id="hg_002_r006" type="교감주">
+                        <noteContent>천견윤태랑본에는 [胡僧 漢僧 曇和 安和]는 [胡僧二人 漢僧三人]로 되어 있다. <br/>최남선본에는 [胡僧 漢僧 曇和 安和]는 [胡僧二人 漢僧三人 曇和 安弘]로 되어 있다.  <br/>한국불교전서에는 [胡僧 漢僧 曇和 安和]는 [胡僧曇和 漢僧安和]로 되어 있다.   <illustration>
+                                <image align="center" src="hg_cns_002_0002"/>
+                            </illustration>
+                            <illustration>
+                                <image align="center" src="hg_bgjs_002_0002"/>
+                            </illustration>
+                        </noteContent>
+                    </annotation>·                    <index type="이름">阿離耶跋摩</index>
+                    <annotation id="hg_002_r007" type="교감주">
+                        <noteContent>규장각본, 조선총독부 중추원 필사본에는 [胡僧 漢僧 曇和 安和] 阿離耶跋摩는 [胡僧二人 僧 漢 三人 阿離耶跋摩]로 되어 있다.<illustration>
+                                <image align="center" src="hg_kyu_002_0001"/>
+                            </illustration>
+                        </noteContent>
+                    </annotation>·                    <index type="이름">慧業</index>·                    <index type="이름">慧輪</index>·                    <index type="이름">玄恪</index>·                    <annotation type="원주">
+                        <noteContent>
+                            <index type="이름">玄照</index>·                            <index type="이름">名</index>
+                            <annotation id="hg_002_r008" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 소화2년 불교사간 대동선교고 합간본에는 名은 亡名으로 되어 있다.  <br/>천견윤태랑본에는 玄照名은 玄照  亡名으로 되어 있다. <illustration>
+                                        <image align="center" src="hg_kyu_002_0001"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>二人</noteContent>
+                    </annotation>·                    <index type="이름">玄遊</index>·                    <annotation type="원주">
+                        <noteContent>
+                            <index type="이름">僧哲</index>
+                        </noteContent>
+                    </annotation>·                    <index type="이름">玄大梵</index>
+                </paragraph>
+            </content>
+        </text>
+    </level2>
+    <level2 id="hg_002_0030">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋覺德</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0030_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>각덕의 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0001" end="hg_a_002_0002">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0001" end="hg_b_002_0002">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0001" end="hg_c_002_0002">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">覺德</index>新羅人. 聰明廣博, 凡聖莫測<annotation id="hg_002_r009" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 測은 側으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0002"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>也. 新羅旣奉行佛敎人<annotation id="hg_002_r010" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 人이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0002"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>爭歸信, 師以達智知世之可化謂曰, “遷喬必出谷學道務求<annotation id="hg_002_r011" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 求는 永으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0002"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>師. 若安安而居遲遲而行, 非<index type="이름">釋子</index>棄恩之本意. 卽附舶入<index type="국명">梁</index>爲求<annotation id="hg_002_r012" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 求는 永으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0002"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>法之先鋒. 但不知第<annotation id="hg_002_r013" type="교감주">
+                            <noteContent>천견윤태랑본에는 第는 苐로 되어 있다. </noteContent>
+                        </annotation>何年耳, 此新羅入學之始.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0030_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>각덕의 귀국 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0549-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0002" end="hg_a_002_0002">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0002" end="hg_b_002_0003">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0002" end="hg_c_002_0002">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">遂歷事明師備承口訅,<annotation id="hg_002_r014" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 訅는 訣로 되어 있다.   ≪신수대장경(新修大藏經)≫ 제50권,  ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫ 제2에는 註曰訅或訓字로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0003"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 如除翳膜, 如去盯矃.<annotation id="hg_002_r015" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 盯矃은 耵聹으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0003"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 有始無<annotation id="hg_002_r016" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 한국불교전서에는 無는 有로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0003"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>終, 無荒無怠, 德高行峻道望彌隆. 以採寶<annotation id="hg_002_r017" type="교감주">
+                            <noteContent>천견윤태랑본에는 寶는 宝로 되어 있다. </noteContent>
+                        </annotation>者非但自用當還故國普振群<annotation id="hg_002_r018" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 群은 羣으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0003"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>貧. 乃於<index type="이름">眞興王</index>十年與<index type="국명">梁</index>使齎<annotation id="hg_002_r019" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫ 제2, 소화2년 불교사간 대동선교고 합간본에는 齎는 賫로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">佛</index>舍利還至舊都. 王遽命有司卽遣百官備禮儀出迎于興輪寺前路, 此亦舍利之始也.<annotation id="hg_002_r020" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 也가 빠져있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 昔<index type="이름">僧<annotation id="hg_002_r021" type="교감주">
+                                <noteContent>조선총독부 중추원 필사본에는 僧은 像으로 되어 있다. </noteContent>
+                            </annotation>會</index>適<index type="국명">吳</index>求伸七日方値神驗. <index type="이름">師</index>當人主已信之際隨, 上國重使來儀本國了無艱□.<annotation id="hg_002_r022" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 □는 㝵로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0004"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 又以法水普潤海表, 使惰<annotation id="hg_002_r023" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 惰는 懶로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0004"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>夫立□<annotation id="hg_002_r024" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 소화2년 불교사간 대동선교고 합간본에는 □는 表로 되어 있다.  <br/>천견윤태랑본에는 글씨를 지우고 表로 교정하였다. <br/>최남선본에는 □가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0004"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>皆懷欲往<annotation id="hg_002_r025" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0004"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>之志, 其功利復<annotation id="hg_002_r026" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 復은 後世로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>何勝道哉.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0030_0030">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>명관의 불전 전래 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0565-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as04_01_02_01" scheme="주제">문화＞사상＞불교사상＞경논소</subjectClass>
+                    <subjectClass code="as01_04_03_02" scheme="주제">정치＞외교＞사신＞파견·영접</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0002" end="hg_a_002_0003">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0003" end="hg_b_002_0003">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0002" end="hg_c_002_0003">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">後二十六年<index type="국명">陳</index>遣使<index type="이름">劉思</index>及入學<annotation id="hg_002_r027" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 學이 빠져있다. </noteContent>
+                        </annotation>僧<index type="이름">明觀</index>, 送釋氏經論無慮二千七百<annotation id="hg_002_r028" type="교감주">
+                            <noteContent>≪삼국사기≫ 권4 신라본기4 진흥왕 26년 8월조에 의하면 二千七百은 千七百의 잘못이다. <illustration>
+                                    <image align="center" src="hg_sgsg_001_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>餘卷. 初則新羅法化初張經像多闕, 至是班班將大備焉. 二師所終<annotation id="hg_002_r029" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 終은 從으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>皆未詳聞矣.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0040">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋智明</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0040_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>지명의 중국 유학 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0585-07-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as01_04_04_01" scheme="주제">정치＞외교＞숙위＞파견·귀국</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0003" end="hg_a_002_0004">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0003" end="hg_b_002_0004">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0003" end="hg_c_002_0004">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">智明</index>新羅人. 神解超悟, 行止合度. 內蘊密行讃揚他德, 挽回<annotation id="hg_002_r030" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 回는 曲으로 되어 있다.<br/>천견윤태랑본에는 글씨를 지우고 曲으로 교정하였다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0005"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>向己, 捨直與人, 顒顒卬卬<annotation id="hg_002_r031" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 卬卬은 昻昻으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0005"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>動有可觀. 自<index type="지명">竺</index>敎宣通於<index type="지명">海東</index>權輿之際未曾大集. 英俊間生奮臂而作, 或自悟以逞能或遠求而命駕. 新醫&#x256ab;於舊醫邪正始分, 舊尹吿於新尹師資相授. 於是西入中國飽參<annotation id="hg_002_r032" type="교감주">
+                            <noteContent>최남선본에는 參은 叅으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>而來<annotation id="hg_002_r033" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 소화2년 불교사간 대동선교고 합간본에는 來는 者로 되어 있다.  <br/>최남선본에는 來는 來者로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0006"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>繼踵而起. 師以命世之才, 當<index type="이름">眞平王</index>之<annotation id="hg_002_r034" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 之가 빠져있다. </noteContent>
+                        </annotation>七年秋七月問津利往,<annotation id="hg_002_r035" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0006"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 入<index type="국명">陳</index>求法. 雲遊海陸, 梗轉西東. 苟有道而有名悉爰諮而爰<annotation id="hg_002_r036" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 諮而爰이 빠져있다. </noteContent>
+                        </annotation>詣, 如木從繩如金成器.<annotation id="hg_002_r037" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 器는 哭으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 飄然一去忽爾十霜, 學旣得<annotation id="hg_002_r038" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 得은 淂으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>髓心切傳<annotation id="hg_002_r039" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 傳은 傅로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>燈. 以<index type="이름">眞平王</index>二十四年九月隨入朝使還國. 王欽風景仰, 推重戒律褒爲大德, 以勸方來. <index type="이름">師</index>岳立嵩<annotation id="hg_002_r040" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 嵩는 蒿로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <newChar href="KC03584"/>
+                        <annotation id="hg_002_r041" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 <newChar href="KC03584"/>는 華로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0007"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>量含<annotation id="hg_002_r042" type="교감주">
+                            <noteContent>규장각본에는 含은 舍로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>滄溟, 炤<annotation id="hg_002_r043" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 炤은 照로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>之以慧月振之以德風, 緇素之徒是彜是訓. 後加大大德蔚居峻秩, 不知所卒.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0040_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>담육의 유학과 귀국 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0589-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0004" end="hg_a_002_0004">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0004" end="hg_b_002_0004">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0004" end="hg_c_002_0004">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">初<index type="이름">師</index>入<index type="국명">陳</index>後五年<index type="이름">圓光法師</index>入<index type="국명">陳</index>. 八年<index type="이름">曇育</index>入<index type="국명">隋</index>, 七年隨入朝使<annotation id="hg_002_r044" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 使는 빠져있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">惠文</index>俱還. <index type="이름">師</index>與<index type="이름">智明</index>竝<annotation id="hg_002_r045" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 竝은 幷으로 되어 있다.   <br/>천견윤태랑본에는 竝은 並으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0008"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>以高德顯名當代, 之才之美固不相上下者也.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0040_0030">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>찬하여 말하다 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0004" end="hg_a_002_0005">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0005" end="hg_b_002_0005">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0004" end="hg_c_002_0005">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">賛<annotation id="hg_002_r046" type="교감주">
+                            <noteContent>국사편찬위원회 소장본에는 두주 [於下周字アリカ]가 있다. </noteContent>
+                        </annotation>曰. <index type="이름">季札</index>觀樂於室,<annotation id="hg_002_r047" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 한국불교전서에는 室은 周室로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0008"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0004"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">仲尼</index>問禮於<index type="이름">老聃</index>, 非始學也亦<annotation id="hg_002_r048" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 亦은 示로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0008"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>有宗矣. <index type="이름">德</index>等<annotation id="hg_002_r049" type="교감주">
+                            <noteContent>천견윤태랑본에는 等은 䓁으로 되어 있다. </noteContent>
+                        </annotation>往<annotation id="hg_002_r050" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0008"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>還上國訪道而返, 斯亦異類而同歸者歟.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0050">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋圓光</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0050_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>원광의 수행 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0005" end="hg_a_002_0006">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0005" end="hg_b_002_0006">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0005" end="hg_c_002_0006">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">圓光</index>俗姓薜<annotation id="hg_002_r051" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 薜은 薛로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0009"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>氏, 或云朴, 新羅王京人年十三落髮<annotation id="hg_002_r052" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 髮은 상부가 髟, 하부가 大인 형태의 글자로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0009"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>爲僧. <annotation type="원주">
+                            <noteContent>
+                                <index type="서명">續高僧傳</index>云, 入<index type="국명">唐</index>刹削.</noteContent>
+                        </annotation>神器恢廓惠<annotation id="hg_002_r053" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 惠는 慧로 되어 있다.<illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>解超倫. 校渉玄儒愛染篇章. 逸想高邁厭<annotation id="hg_002_r054" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 厭은 猒으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0009"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>居情<annotation id="hg_002_r055" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 情은 憤으로 되어 있다. <br/>최남선본, 소화2년 불교사간 대동선교고 합간본에는 情은 憒으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0009"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>鬧. 三十歸隱<index type="지명">三岐<annotation id="hg_002_r056" type="교감주">
+                                <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 岐는 歧로 되어 있다. <illustration>
+                                        <image align="center" src="hg_cns_002_0005"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>山</index>影不出洞. 有一<annotation id="hg_002_r057" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 一이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0009"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>比丘來止近地作蘭若修道. 師夜坐誦念,<annotation id="hg_002_r058" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 誦念은 念誦으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 有神呼曰, “善哉. 凡修行者雖衆無出<index type="이름">法師</index>. 右<annotation id="hg_002_r059" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 右는 古로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>者今彼比丘徑修呪<annotation id="hg_002_r060" type="교감주">
+                            <noteContent>최남선본에는 呪는 咒로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>術, 但惱汝淨<annotation id="hg_002_r061" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 淨은 凈으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>念礙<annotation id="hg_002_r062" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 礙는 碍로 되어 있다.   <br/>천견윤태랑본에는 礙는 㝵로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>我行路而無所得,<annotation id="hg_002_r063" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 得은 淂으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 每當經歷幾發惡<annotation id="hg_002_r064" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 惡은 &#x22663;으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>心. 請<index type="이름">師</index>誘令移去. 若不□住從<annotation id="hg_002_r065" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 不□住從은 不從久住로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>當有患矣.” 明旦<index type="이름">師</index>往<annotation id="hg_002_r066" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>吿彼僧曰, “可移居<annotation id="hg_002_r067" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 居는 去로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>逃害. 不然將有不利.” 對曰 “至行魔之所妨何憂妖鬼言乎.” 是夕其神來訊彼答.<annotation id="hg_002_r068" type="교감주">
+                            <noteContent>천견윤태랑본에는 答은 荅으로 되어 있다. </noteContent>
+                        </annotation>
+                        <index type="이름">師</index>恐其怒也謬曰, “未委耳何敢不聽.” 神曰 “吾已俱知其情且可默住<annotation id="hg_002_r069" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 住은 徃으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>而見之.” 至夜聲<annotation id="hg_002_r070" type="교감주">
+                            <noteContent>규장각본에는 聲은 <newChar href="KC05587"/>으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>動如雷, 黎明往<annotation id="hg_002_r071" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>視<annotation id="hg_002_r072" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 視는 示로 되어 있다.  <br/>천견윤태랑본에는 視를 示로 교정하였다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>之有山頹于蘭若壓<annotation id="hg_002_r073" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 壓은 猒으로 되어 있다. </noteContent>
+                        </annotation>焉. 神來證曰, “吾生幾千年, 威變最壯此何足怪.”<annotation id="hg_002_r074" type="교감주">
+                            <noteContent>천견윤태랑본, 최남선본에는 怪는 恠로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 因諭曰 “今<index type="이름">師</index>雖有自利而闕<annotation id="hg_002_r075" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 闕은 關으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>利他. 何不入中朝得<annotation id="hg_002_r076" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 得은 淂으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>法波及後徒.” <index type="이름">師</index>曰 “學道於中華固所願也, 海陸逈<annotation id="hg_002_r077" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 逈이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>阻不能自達.” 於是神祥<annotation id="hg_002_r078" type="교감주">
+                            <noteContent>소화2년 불교사간 대동선교고 합간본에는 祥作詳으로 되어 있다. </noteContent>
+                        </annotation>誘西遊之事.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>원광의 유학과 귀국 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0589-03-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as01_06_03_04" scheme="주제">정치＞신이＞기타＞기타</subjectClass>
+                    <subjectClass code="as01_04_04_01" scheme="주제">정치＞외교＞숙위＞파견·귀국</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0006" end="hg_a_002_0007">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0006" end="hg_b_002_0007">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0006" end="hg_c_002_0007">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">乃以<index type="이름">眞平王</index>十二<annotation id="hg_002_r079" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 二는 一로 되어 있다.   <br/>≪삼국사기≫ 권4 신라본기 4 眞平王 11년 3월조에 의하면 一이 맞다.  <br/>소화2년 불교사간 대동선교고 합간본에는 二作三으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0012"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_sgsg_001_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>年春三月遂入<index type="국명">陳</index>遊歷講肆領<annotation id="hg_002_r080" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 領은 頁으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>牒微言, 傳<annotation id="hg_002_r081" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 傳은 傅로 되어 있다.</noteContent>
+                        </annotation>禀<index type="서명">成實</index>·                        <index type="서명">涅槃</index>·三藏<annotation id="hg_002_r082" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>數論. 便投<index type="국명">吳</index>之<index type="지명">虎丘</index>攝想靑霄. 因信士請遂講<index type="서명">成實</index>, 企仰請益相接如鱗會. <index type="국명">隋</index>兵入楊都, 主將望見塔火將救之, 祇<annotation id="hg_002_r083" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 祇는 祗로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>見師被縛在塔前. 若無吿狀異而釋之. 開<annotation id="hg_002_r084" type="교감주">
+                            <noteContent>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫ 제2에는 開上有註曰事見續高僧傳卷之十三及三國遺事卷四로 되어 있다. </noteContent>
+                        </annotation>皇間<index type="서명">攝論</index>肇興, 奉佩文言宣譽京臯. 勣業旣精道東須繼. 本朝上啓有勅<annotation id="hg_002_r085" type="교감주">
+                            <noteContent>최남선본에는 勅은 勑으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>放還. <index type="이름">眞平</index>
+                        <annotation id="hg_002_r086" type="교감주">
+                            <noteContent>소화2년 불교사간 대동선교고 합간본에는 平下有王으로 되어 있다. </noteContent>
+                        </annotation>二十二年庚申隨朝聘使奈麻<index type="이름">諸父</index>大舍<index type="이름">橫川</index>還國. 俄見海人<annotation id="hg_002_r087" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 한국불교전서에는 人은 中로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0013"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0005"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>異人出拜請曰, “願<index type="이름">師</index>爲我剏<annotation id="hg_002_r088" type="교감주">
+                            <noteContent>천견윤태랑본에는 剏은 좌변이 並, 우변이 刄인 형태의 글자로 되어 있다.  <br/>최남선본에는 剏은 刱으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>寺常講眞詮, 令弟子得<annotation id="hg_002_r089" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 得은 淂으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>勝報也.” <index type="이름">師</index>頷之. <index type="이름">師</index>往<annotation id="hg_002_r090" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0013"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>來累稔老幼<annotation id="hg_002_r091" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 幼는 㓜으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>相忻, 王亦面申虔敬仰若能仁.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0030">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>운문사 창건 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_04" scheme="주제">문화＞사상＞불교사상＞사원·단월</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0007" end="hg_a_002_0008">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0007" end="hg_b_002_0008">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0007" end="hg_c_002_0008">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">遂到<index type="지명">三岐<annotation id="hg_002_r092" type="교감주">
+                                <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 岐는 歧로 되어 있다. <illustration>
+                                        <image align="center" src="hg_cns_002_0007"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>山</index>舊居, 午夜彼神來問往<annotation id="hg_002_r093" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0014"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>返如何. 謝曰 “賴爾恩護凡百適願.” 神曰 “吾固不離扶擁. 且<index type="이름">師</index>與海龍結剏<annotation id="hg_002_r094" type="교감주">
+                            <noteContent>천견윤태랑본에는 剏은 좌변이 並, 우변이 刄인 형태의 글자로 되어 있다. <br/>최남선본에는 剏은 刱으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>寺約, 其龍今亦偕來.” <index type="이름">師</index>問之曰, “何處爲可.” 神曰 “于彼<index type="지명">雲門</index>小<annotation id="hg_002_r095" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 小는 山으로 되어 있다.  ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 注曰小或北字로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0014"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>當有群<annotation id="hg_002_r096" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 群은 羣으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0014"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>鵲啄地卽其處也.” 詰朝<annotation id="hg_002_r097" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 소화2년 불교사간 대동선교고 합간본에는 朝는 旦으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0014"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">師</index>與神龍偕歸, 果見其地卽堀<annotation id="hg_002_r098" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 한국불교전서에는 堀은 崛로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0014"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0006"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>地有石塔存焉. 便剏<annotation id="hg_002_r099" type="교감주">
+                            <noteContent>천견윤태랑본에는 剏은 좌변이 並, 우변이 刄인 형태의 글자로 되어 있다. <br/>최남선본에는 剏은 刱으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0007"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>伽藍額曰<index type="지명">雲門</index>而住之.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0040">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>신의 모습 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as01_06_03_04" scheme="주제">정치＞신이＞기타＞기타</subjectClass>
+                    <subjectClass code="as01_06_01_02" scheme="주제">정치＞신이＞자연현상＞기후</subjectClass>
+                    <subjectClass code="as02_01_01_01" scheme="주제">경제＞경제정책＞재해＞재해유형</subjectClass>
+                    <subjectClass code="as01_06_02_03" scheme="주제">정치＞신이＞생물＞식물</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0008" end="hg_a_002_0009">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0008" end="hg_b_002_0009">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0008" end="hg_c_002_0009">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">神又不捨冥衞. 一日神報曰, “吾大期不久, 願受菩薩戒爲長往<annotation id="hg_002_r100" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0015"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0008"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>之資.” <index type="이름">師</index>乃授訖, 因結世世相度之誓. 又謂曰 “神之<annotation id="hg_002_r101" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 之가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>形可得見乎.” 曰 “<index type="이름">師</index>可<annotation id="hg_002_r102" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 師可는 可師로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>遲明望東方.” 有<annotation id="hg_002_r103" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 有가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>大臂貫雲接天. 神曰 “<index type="이름">師</index>見予臂乎. 雖有此神<annotation id="hg_002_r104" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 神은 身으로 되어 있다.   <br/>천견윤태랑본에는 神을 身으로 교정하였다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0015"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0008"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>未免無常. 當<annotation id="hg_002_r105" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 當이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>於某日死於某地, 請來訣別.” 師趁<annotation id="hg_002_r106" type="교감주">
+                            <noteContent>천견윤태랑본에는 趁은 좌변이 走, 우변이 厼인 형태의 글자로 되어 있다. </noteContent>
+                        </annotation>期往<annotation id="hg_002_r107" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_cns_002_0008"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>見一秃黑狸<newChar href="KC07464"/>
+                        <newChar href="KC07464"/>
+                        <annotation id="hg_002_r108" type="교감주">
+                            <noteContent>한국불교전서에는 <newChar href="KC07464"/>
+                                <newChar href="KC07464"/>는 吱吱로 되어 있다.  <br/>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 <newChar href="KC07464"/>
+                                <newChar href="KC07464"/>는 吸吸으로 되어 있다.   <br/>천견윤태랑본에는 吱吱를 吸吸으로 교정하였다. <illustration>
+                                    <image align="center" src="hg_bgjs_002_0007"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0008"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>而斃卽其神<annotation id="hg_002_r109" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 神은 親으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>也. 西海龍女常隨聽講. 適有大旱, <index type="이름">師</index>曰 “汝幸雨境內.” 對曰 "上帝不許我 若<annotation id="hg_002_r110" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 我若은 若我로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>謾雨必獲罪於天 無所禱也." <index type="이름">師</index>曰 “吾力能免矣. 俄而<index type="지명">南山</index>朝隮<annotation id="hg_002_r111" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 朝隮는 隮朝로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>崇朝<annotation id="hg_002_r112" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 崇朝가 빠져 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>而雨. 時天雷震<annotation id="hg_002_r113" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 震은 震動之로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>卽欲罰之. 龍吿急<index type="이름">師</index>匿龍於<annotation id="hg_002_r114" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 於가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>講床<annotation id="hg_002_r115" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 床은 狀으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>下講經, 天使來吿曰, “予受上帝命. <index type="이름">師</index>爲逋逃者主華<annotation id="hg_002_r116" type="교감주">
+                            <noteContent>최남선본, 한국불교전서에는 華는 萃로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0009"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0008"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>不得<annotation id="hg_002_r117" type="교감주">
+                            <noteContent>규장각본에는 得은 淂으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>成命奈何. <index type="이름">師</index>指庭中梨木曰, “彼變爲此樹汝當擊之.” 遂震梨而去.<annotation id="hg_002_r118" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 震梨而去는 梨而震去로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 龍乃出謝禮<annotation id="hg_002_r119" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 謝禮는 禮謝로 되어 있다.<br/>천견윤태랑본에는 謝禮를 禮謝로 교정하였다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0017"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0009"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>以其木代己受罰引手撫之其樹卽蘇.<annotation id="hg_002_r120" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 蘇는 蘓로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                    </paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0050">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>걸사표 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0608-99-99L0"/>
+                    </date>
+                    <subjectClass code="as01_02_06_02" scheme="주제">정치＞행정＞관인＞政務諫言</subjectClass>
+                    <subjectClass code="as04_02_01_01" scheme="주제">문화＞문학＞문학형식＞시문</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0009" end="hg_a_002_0010">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0009" end="hg_b_002_0010">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0009" end="hg_c_002_0010">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="이름">眞平王</index>三十年王患<index type="국명">句高麗</index>
+                        <annotation id="hg_002_r121" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 句高麗는 高句麗로 되어 있다.<br/>≪삼국사기≫ 권13 고구려본기 1에 의하면 高句麗가 맞다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0017"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0009"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_sgsg_001_0001"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>屢侵封疆欲請<index type="국명">隋</index>兵以征敵國. 命<index type="이름">師</index>修乞師表, <index type="이름">師</index>曰 “求自存而滅他非沙門之行也. 然<index type="국명">貧道</index>在大王之土地費大王之衣食, 敢不唯<annotation id="hg_002_r122" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 唯는 惟로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0018"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>命是從.” 乃述以聞. 師性虛閑, 情多汎愛, 言常含笑慍結不形. 爲牋<annotation id="hg_002_r123" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 牋은 箋으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>·表·啓書竝<annotation id="hg_002_r124" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 竝은 幷으로 되어 있다.   <br/>천견윤태랑본에는 竝은 並으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0018"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>出自胸<annotation id="hg_002_r125" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 胸은 胷으로 되어 있다.   <br/>천견윤태랑본에는 胸은 &#x266be;으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0018"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>襟, 擧國傾<annotation id="hg_002_r126" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 傾은 <newChar href="KC04496"/>로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0018"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>奉. 委以治<annotation id="hg_002_r127" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 治는 詔로 되어 있다.   <br/>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書) 제2≫에는 註曰治原本作詔續傳十三改之로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0018"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>方乘機敷化垂範後代. 三十五年皇龍寺設百座會, 邀集福田講經<index type="이름">師</index>爲上首, 常僑居加悉寺<annotation id="hg_002_r128" type="교감주">
+                            <noteContent>≪삼국유사≫ 권4 의해(義解)5 원광서학(圓光西學)에는 加悉寺은 嘉瑟岬으로 되어 있다. <br/>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰寺號遺事四作嘉瑟岬注云或作加西又嘉栖皆方言也岬俗云古尸故或云古尸寺猶言岬寺也今雲門寺東九千歩許有加西岬或云嘉瑟峴峴之北洞有寺基臺是也로 되어 있다. <illustration>
+                                    <image align="center" src="hg_sgys_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>講演眞詮.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0060">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>세속오계 </mainTitle>
+                    </title>
+                    <subjectClass code="as03_03_02_01" scheme="주제">사회＞사회조직＞화랑도＞화랑</subjectClass>
+                    <subjectClass code="as03_05_02_02" scheme="주제">사회＞교육＞교육활동＞학습활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0010" end="hg_a_002_0010">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0010" end="hg_b_002_0011">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0010" end="hg_c_002_0011">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="지명">沙梁部</index>
+                        <index type="이름">貴山</index>·                        <index type="이름">箒頂</index>
+                        <annotation id="hg_002_r129" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 頂은 項으로 되어 있다. ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰頂遺事四作項貴山箒頂二賢士之名으로 되어 있다. <br/>≪삼국사기≫ 권45 열전5 귀산(貴山), ≪삼국유사≫ 권4 의해(義解)5 원광서학(圓光西學)에 의하면 箒項이 맞다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0010"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_sgsg_002_0001"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_sgys_002_0003"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>詣門摳衣吿曰, “俗士顓蒙無所知識, 願賜一言爲終身之誡.” <index type="이름">師</index>曰 “有菩薩戒其別有十. 若等<annotation id="hg_002_r130" type="교감주">
+                            <noteContent>천견윤태랑본에는 等은 䓁으로 되어 있다. </noteContent>
+                        </annotation>爲人臣子恐不能行. 今有世俗五戒, 一曰事君以忠, 二曰奉<annotation id="hg_002_r131" type="교감주">
+                            <noteContent>≪삼국유사≫ 권4 의해(義解)5 원광서학(圓光西學)에는 奉은 事로 되어 있다. <illustration>
+                                    <image align="center" src="hg_sgys_002_0001"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>親以孝, 三曰交友以<annotation id="hg_002_r132" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 以는 爲로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>信, 四曰臨戰不<annotation id="hg_002_r133" type="교감주">
+                            <noteContent>≪삼국유사≫ 권4 의해(義解)5 원광서학(圓光西學)에는 不은 無로 되어 있다. <illustration>
+                                    <image align="center" src="hg_sgys_002_0002"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>退, 五曰殺生有擇. 若等<annotation id="hg_002_r134" type="교감주">
+                            <noteContent>천견윤태랑본에는 等은 䓁으로 되어 있다. </noteContent>
+                        </annotation>行之無<annotation id="hg_002_r135" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 無는 毋로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0019"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0010"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>忽.” <index type="이름">貴山</index>曰 “他則旣受命矣, 但不曉殺生有擇.” <index type="이름">師</index>曰 “春夏月及六齋日不殺是擇時也, 不殺使畜謂牛馬鷄犬, 不殺細物謂肉不足一臠, 是擇物也. 過此雖<annotation id="hg_002_r136" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 雖는 椎로 되어 있다.  <br/>최남선본에는 雖는 惟로 되어 있다.   <br/>천견윤태랑본, 소화2년 불교사간 대동선교고 합간본에는 雖를 惟로 교정하였다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0020"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>□<annotation id="hg_002_r137" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 □는 其로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0020"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>所□<annotation id="hg_002_r138" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 □는 用으로 되어 있다.  ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰二空字宜作有用二字遺事作唯其所用으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0020"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>但不求多殺, 此可謂世俗之善戒.” <index type="이름">貴山</index>等<annotation id="hg_002_r139" type="교감주">
+                            <noteContent>천견윤태랑본에는 等은 䓁으로 되어 있다. </noteContent>
+                        </annotation>守而勿墮.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0070">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>국왕의 병을 낫게 하다 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_03" scheme="주제">문화＞사상＞불교사상＞승려생활</subjectClass>
+                    <subjectClass code="as03_02_01_02" scheme="주제">사회＞인구＞생로병사＞질병·의료</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0010" end="hg_a_002_0011">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0011" end="hg_b_002_0011">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0011" end="hg_c_002_0011">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">後國王染患醫治不□<annotation id="hg_002_r140" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 □은 損으로 되어 있다. ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰空字據遺事四及續僧十三宜作損으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0020"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>請<index type="이름">師</index>說法. 入宮安置或講或說王誠心信奉. 初夜見<index type="이름">師</index>首領金色如日輪, 宮人共覩. 王疾立効. 法臘旣高乘輿入內, 衣服藥石竝<annotation id="hg_002_r141" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 竝은 幷으로 되어 있다.   <br/>천견윤태랑본에는 竝은 並으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0021"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>是王手自營用希專福, 襯施之資捨充營寺惟<annotation id="hg_002_r142" type="교감주">
+                            <noteContent>최남선본에는惟는 唯로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>餘衣鉢, 以此盛宣正法誘掖道俗.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0080">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>원광의 입적 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0641-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as03_04_01_03" scheme="주제">사회＞의례＞관혼상제＞상제</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0011" end="hg_a_002_0012">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0011" end="hg_b_002_0012">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0011" end="hg_c_002_0012">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">將終之際王親執慰, 囑累遺法兼濟斯<annotation id="hg_002_r143" type="교감주">
+                            <noteContent>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰斯民遺事四作民斯로되어 있다. </noteContent>
+                        </annotation>民. 爲說徵詳.<annotation id="hg_002_r144" type="교감주">
+                            <noteContent>소화2년 불교사간 대동선교고 합간본에는 詳作祥으로 되어 있다. ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰詳遺事四作祥으로 되어 있다. </noteContent>
+                        </annotation> 建福五十八年, 不豫經七日遺誡淸切端坐終于所住. 皇隆<annotation id="hg_002_r145" type="교감주">
+                            <noteContent>최남선본에는 隆은 龍으로 되어 있다.   <br/>≪삼국유사≫권4 의해(義解)5 원광서학(圓光西學)에서도 隆으로 되어 있으나 그 아래에서 龍으로 바로 잡았다.  <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_sgys_001_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>寺東北虛中音樂盈空異香充院, 合國悲慶.<annotation id="hg_002_r146" type="교감주">
+                            <noteContent>최남선본에는 慶은 驚으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 葬具羽儀同於王禮. 春秋九十九, 卽貞觀四年也. 後有兒胎死者. 聞諺傳<annotation id="hg_002_r147" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 傳은 傅로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0022"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>埋于有德人<annotation id="hg_002_r148" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 人이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0022"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>墓側子孫不絕乃私瘞之, 卽日震胎屍擲于塋外. <index type="지명">三岐山</index>浮屠<annotation id="hg_002_r149" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 屠는 圖로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0022"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>至今存焉.<annotation id="hg_002_r150" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 이어서 ○高弟圓安……으로 줄을 바꾸지 않고 표기되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0022"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                    </paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0090">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>제자 원안 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0012" end="hg_a_002_0012">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0012" end="hg_b_002_0012">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0012" end="hg_c_002_0012">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">高弟<index type="이름">圓安</index>
+                        <annotation id="hg_002_r151" type="교감주">
+                            <noteContent>천견윤태랑본에는 光을 지우고 安으로 교정하였다. ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 注曰安原本作光今依本傳改之로 되어 있다. </noteContent>
+                        </annotation>亦新羅人. 機鋒頴<annotation id="hg_002_r152" type="교감주">
+                            <noteContent>한국불교전서에는 頴은 穎으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_bgjs_002_0009"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>銳性希歷覽, 仰慕幽永.<annotation id="hg_002_r153" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 永은 求로 되어 있다.  ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰永遺事續傳俱作求로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0023"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 遂北<annotation id="hg_002_r154" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 北은 比로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0023"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>趣<index type="지명">九都</index>, 東觀<index type="지명">不耐</index>, 又遊<index type="국명">西燕</index>
+                        <index type="국명">北魏</index>. 後展帝京備通方俗, 尋諸經論跨轢大綱, 洞淸纖旨高軌<annotation id="hg_002_r155" type="교감주">
+                            <noteContent>최남선본에는 軌는 軓으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">光</index>
+                        <annotation id="hg_002_r156" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는光은 先으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0023"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>塵. 以道素有聞, 特進<index type="이름">肅<annotation id="hg_002_r157" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 肅은 蕭로 되어 있다. <illustration>
+                                        <image align="center" src="hg_kyu_002_0023"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_cns_002_0012"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>瑀</index>請住所造藍田津<index type="국명">梁</index>寺供給四事. 不知所終.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0050_0100">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>찬하여 말하다 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0012" end="hg_a_002_0012">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0012" end="hg_b_002_0013">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0012" end="hg_c_002_0013">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">賛曰. 昔<index type="이름">遠公</index>不廢俗典. 講論之際引莊老連類能使人悟解玄旨. 若<index type="이름">光師</index>之論<annotation id="hg_002_r158" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 소화2년 불교사간 대동선교고 합간본에는 論은 諭로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0024"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>世俗戒蓋<annotation id="hg_002_r159" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 蓋는 盖로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0024"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>學通內外, 隨機設<annotation id="hg_002_r160" type="교감주">
+                            <noteContent>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰設或說字로 되어 있다. </noteContent>
+                        </annotation>法之効也. 然殺生有擇者, 夫豈<index type="이름">湯</index>網去三面, <index type="이름">仲尼</index>弋不射宿之謂耶. 又其動天神返天使, 則道力固可知也已.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0060">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋安含</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0060_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>안함의 구법 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0600-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0013" end="hg_a_002_0014">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0013" end="hg_b_002_0014">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0013" end="hg_c_002_0014">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">安含</index>俗姓金, <index type="이름">詩賦</index>伊飱<annotation id="hg_002_r161" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 飱은 飡으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0025"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0012"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>之孫也. 生而覺悟, 性乃冲虛. 毅然淵懿之量莫窮涯畛. 嘗浪志遊方, 觀風私<annotation id="hg_002_r162" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 私는 弘으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0026"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>化, <index type="이름">眞平</index>二十二年約與高僧<index type="이름">惠宿</index>爲伴, 擬將乘桴<index type="지명">泥浦<annotation id="hg_002_r163" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 한국불교전서에는 泥浦는 泛泥浦으로 되어 있다.<illustration>
+                                        <image align="center" src="hg_kyu_002_0026"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_cns_002_0013"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_bgjs_002_0010"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>津</index>過<index type="지명">渉島</index>之下忽値風浪回<annotation id="hg_002_r164" type="교감주">
+                            <noteContent>최남선본에는 回는 囘로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>泊此濱. 明年有旨簡差堪成法器<annotation id="hg_002_r165" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 器는 哭으로 되어 있다.  <br/>최남선본에는 器는 噐로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0026"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>者入朝學問, 遂命<index type="이름">法師</index>允當行矣. 乃與聘國使同舟渉海遠赴天庭.<annotation id="hg_002_r166" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 遠赴天庭은 遠庭으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0026"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">天王</index>引見皇情大悅勅<annotation id="hg_002_r167" type="교감주">
+                            <noteContent>최남선본에는 勅은 勑으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>配於大興聖寺居住. 旬月之<annotation id="hg_002_r168" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 之가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>間洞解玄旨. 於是<newChar href="KC03584"/>
+                        <annotation id="hg_002_r169" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 <newChar href="KC03584"/>는 華로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>山仙掌十驛之程卽日午行廻, 誰聞夕鼓,<annotation id="hg_002_r170" type="교감주">
+                            <noteContent>규장각본에는 鼓은 䜵로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 秦嶺帝宮<annotation id="hg_002_r171" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 宮은 京으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>千里之地卽星馳陟降, 豈待晨鐘.<annotation id="hg_002_r172" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 鐘은 鍾으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 十乘秘法玄義眞文五稔之中莫不該覽. 越二十七年爰與于闐沙門<index type="이름">毘<annotation id="hg_002_r173" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 毘는 毗로 되어 있다.   <illustration>
+                                        <image align="center" src="hg_kyu_002_0027"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_cns_002_0013"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>摩眞諦</index>·沙門<index type="이름">農加陀</index>
+                        <annotation id="hg_002_r174" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 陀는 陁로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>等<annotation id="hg_002_r175" type="교감주">
+                            <noteContent>천견윤태랑본에는 等은 䓁으로 되어 있다. </noteContent>
+                        </annotation>俱來至此, <index type="지명">西域</index>胡僧直<annotation id="hg_002_r176" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 直은 眞으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>到<index type="국명">雞林</index>蓋<annotation id="hg_002_r177" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 蓋는 盖로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0027"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>自玆也.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0060_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>안홍 관련 기록 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0014" end="hg_a_002_0015">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0014" end="hg_b_002_0015">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0014" end="hg_c_002_0015">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="이름">崔致遠</index>所撰<index type="서명">義相<annotation id="hg_002_r178" type="교감주">
+                                <noteContent>≪삼국유사≫ 권제4 의해5 의상전교(義湘傳敎)에 의하면 相은 湘의 잘못이다. <illustration>
+                                        <image align="center" src="hg_sgys_002_0005"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>傳</index>云, “<index type="이름">相眞平</index>建福四十二年受生. 是年東方聖人<index type="이름">安弘法師</index>與<index type="국명">西國</index>二<annotation id="hg_002_r179" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 二는 三으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0028"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0013"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">三藏</index>
+                        <annotation id="hg_002_r180" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>
+                        <index type="국명">漢</index>僧二人至自<index type="국명">唐</index>.” 注云 “<index type="지명">北天竺</index>
+                        <index type="국명">烏萇國</index>
+                        <index type="이름">毘<annotation id="hg_002_r181" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 毘는 毗로 되어 있다.   <illustration>
+                                        <image align="center" src="hg_kyu_002_0028"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_cns_002_0013"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>摩羅眞諦</index>年四十四, <index type="이름">農伽<annotation id="hg_002_r182" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본에는 伽는 加로 되어 있다.  <illustration>
+                                        <image align="center" src="hg_kyu_002_0028"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>陀</index>
+                        <annotation id="hg_002_r183" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 陀는 陁로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0028"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>年四十六, <index type="국명">摩<annotation id="hg_002_r184" type="교감주">
+                                <noteContent>소화2년 불교사간 대동선교고 합간본에는 최남선본에는 摩가 빠져있다. <illustration>
+                                        <image align="center" src="hg_cns_002_0013"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>豆羅國</index>
+                        <index type="이름">佛陀<annotation id="hg_002_r185" type="교감주">
+                                <noteContent>규장각본, 천견윤태랑본에는 陀는 陁로 되어 있다.<illustration>
+                                        <image align="center" src="hg_kyu_002_0028"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>僧伽</index>年四十六. 經由五十二國始<annotation id="hg_002_r186" type="교감주">
+                            <noteContent>소화2년 불교사간 대동선교고 합간본에는 始下有至로 되어 있다. ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰始下恐脫入字로 되어 있다. </noteContent>
+                        </annotation>漢土遂東來住皇龍寺譯出<index type="서명">旃<annotation id="hg_002_r187" type="교감주">
+                                <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 旃은 栴으로 되어 있다. <illustration>
+                                        <image align="center" src="hg_cns_002_0013"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>檀香火星光妙女經, </index>鄕<annotation id="hg_002_r188" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 鄕은 倻로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0028"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>僧<index type="이름">曇和</index>筆授. 未幾漢僧上表乞還中國, 王許而送之.” 則<index type="이름">安弘</index>者殆<index type="이름">和尙</index>是也. 又按新羅本記,<annotation id="hg_002_r189" type="교감주">
+                            <noteContent>≪삼국사기≫ 목록에는 記는 紀로 되어 있다. <illustration>
+                                    <image align="center" src="hg_sgsg_002_0002"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> “眞興王三十七年<index type="이름">安弘</index>入<index type="국명">陳</index>求法, 與胡僧<index type="이름">毘<annotation id="hg_002_r190" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 毘는 毗로 되어 있다. <illustration>
+                                        <image align="center" src="hg_kyu_002_0029"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>摩羅</index>等二人迴上<index type="서명">楞伽</index>
+                        <annotation id="hg_002_r191" type="교감주">
+                            <noteContent>천견윤태랑본에는 伽는 枷로 되어 있다. </noteContent>
+                        </annotation>·                        <index type="서명">勝鬘經</index>及佛舍利.” 自<index type="이름">眞<annotation id="hg_002_r192" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본에는 眞이 빠져있다.  <illustration>
+                                        <image align="center" src="hg_kyu_002_0029"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>興</index>末至<annotation id="hg_002_r193" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 至이 빠져있다. </noteContent>
+                        </annotation>
+                        <index type="이름">眞平</index>建福相去幾五十年, 何<index type="이름">三藏</index>
+                        <annotation id="hg_002_r194" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>來之前却如是. 或恐<index type="이름">安含</index>
+                        <index type="이름">安弘</index>
+                        <annotation id="hg_002_r195" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 安含安弘은 含安弘으로 되어 있다. </noteContent>
+                        </annotation>實有二人. 然其所與<index type="이름">三藏</index>
+                        <annotation id="hg_002_r196" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>不殊, 而厥名不殊, 今合而立傳.<annotation id="hg_002_r197" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 傳은 傅로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0030"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 又未詳<index type="국명">西國</index>
+                        <index type="이름">三藏</index>
+                        <annotation id="hg_002_r198" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>去留所終.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0060_0030">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>안함의 예언과 입적 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0640-09-23L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0015" end="hg_a_002_0016">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0015" end="hg_b_002_0016">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0015" end="hg_c_002_0016">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="이름">和尙</index>返國以後作讖書一卷,<annotation id="hg_002_r199" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 卷은 字로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0030"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 字印離合爲之<annotation id="hg_002_r200" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 之는 文으로 되어 있다.<br/>천견윤태랑본에는 之를 文으로 교정하였다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0030"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0014"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>者罕測, 宗途幽隱索理者難究. 如云 “鵂鶹鳥 <annotation type="원주">
+                            <noteContent>碑<annotation id="hg_002_r201" type="교감주">
+                                    <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 碑는 經으로 되어 있다.<illustration>
+                                            <image align="center" src="hg_kyu_002_0030"/>
+                                        </illustration>
+                                        <illustration>
+                                            <image align="center" src="hg_cns_002_0014"/>
+                                        </illustration>
+                                    </noteContent>
+                                </annotation>文隱晦未詳.</noteContent>
+                        </annotation>散.” 又云 “第<annotation id="hg_002_r202" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 第는 苐로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0030"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>一女主<annotation id="hg_002_r203" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 主가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0030"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>葬忉<annotation id="hg_002_r204" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 忉는 忇으로 되어 있다. </noteContent>
+                        </annotation>利天, 及千里戰軍之敗, 四天王寺<annotation id="hg_002_r205" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 寺가 빠져있다. </noteContent>
+                        </annotation>之成, 王子還鄕之歲, 大君盛明之年. 皆懸言遙記的, 如目覩了無差<annotation id="hg_002_r206" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 差는 &#x26351;로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0031"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>脫. <index type="이름">善德王</index>九年九月二十三日終于萬善道場, 享年六十二. 是月鄕使從漢而邂逅<index type="이름">法師</index>, 敷座于碧浪之上怡然向西而去. 眞所謂騰空步階,<annotation id="hg_002_r207" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 階는 偕로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0031"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 坐水行地者矣.”</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0060_0040">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>안함의 비문 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_06_01_01" scheme="주제">문화＞문화재＞금석문＞碑文</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0016" end="hg_a_002_0016">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0016" end="hg_b_002_0016">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0016" end="hg_c_002_0017">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">翰林薛某奉詔撰碑. 其銘云 “后<annotation id="hg_002_r208" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 한국불교전서에는 后는 後로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0031"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>葬忉利, 建天天<annotation id="hg_002_r209" type="교감주">
+                            <noteContent>천견윤태랑본에는 天을 王으로 교정하였다. <br/>최남선본, 소화2년 불교사간 대동선교고 합간본에는 天은 王으로 되어 있다.·≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰第二天字恐王字로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>寺. 怪<annotation id="hg_002_r210" type="교감주">
+                            <noteContent>천견윤태랑본, 한국불교전서에는 怪는 恠로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_bgjs_002_0011"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>鳥夜鳴, 兵衆旦<annotation id="hg_002_r211" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 旦은 且로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0033"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>殪. 王子渡關<annotation id="hg_002_r212" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 關은 関으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0033"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>入朝聖顏, 五年限外三十而還, 浮沈<annotation id="hg_002_r213" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 沈은 沉으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0033"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>輪轉<annotation id="hg_002_r214" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 轉이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0033"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>彼我奚免. 年六十二終于萬善, 使還海路師亦交遇端坐水上指西而<annotation id="hg_002_r215" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 而는 於로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0033"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>去.”<annotation type="원주">
+                            <noteContent>碑文苔蝕字缺十, 喪四五. 略<annotation id="hg_002_r216" type="교감주">
+                                    <noteContent>규장각본, 조선총독부 중추원 필사본에는 略은 畧으로 되어 있다. <illustration>
+                                            <image align="center" src="hg_kyu_002_0033"/>
+                                        </illustration>
+                                    </noteContent>
+                                </annotation>取可觀擬以<annotation id="hg_002_r217" type="교감주">
+                                    <noteContent>규장각본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 以는 似로 되어 있다.  <illustration>
+                                            <image align="center" src="hg_kyu_002_0033"/>
+                                        </illustration>
+                                        <illustration>
+                                            <image align="center" src="hg_cns_002_0015"/>
+                                        </illustration>
+                                    </noteContent>
+                                </annotation>成文.</noteContent>
+                        </annotation>蓋<annotation id="hg_002_r218" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 蓋는 盖로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0033"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>不待他亦髣髴其遺跡矣.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0060_0050">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>찬하여 말하다 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0016" end="hg_a_002_0016">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0016" end="hg_b_002_0017">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0017" end="hg_c_002_0017">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">賛曰. <index type="이름">師</index>之神通解脫去住自在大菩薩之閑事, 豈容筆舌於其間哉. 然入朝始, 與<index type="지명">西域</index>
+                        <annotation id="hg_002_r219" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 西域이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0034"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="이름">三藏</index>
+                        <annotation id="hg_002_r220" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>手派<annotation id="hg_002_r221" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 派는 泒로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0034"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>眞源, 吹法螺而雨法雨河潤海陬, 眞弘法之聖人字<annotation id="hg_002_r222" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 字가 빠져있다.   <br/>소화2년 불교사간 대동선교고 합간본, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫ 제2에는 字無有로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0034"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0015"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>也. 字經三寫, 烏焉成馬. 予疑<index type="이름">含</index>
+                        <index type="이름">弘</index>二字之有一錯焉.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0070">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋阿離耶跋摩</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0070_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>아리야발마의 서역 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0017" end="hg_a_002_0017">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0017" end="hg_b_002_0017">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0017" end="hg_c_002_0018">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">阿離耶跋摩</index>神智獨悟, 形貌異倫. 始自新羅入于中國尋師請益無遠不參,<annotation id="hg_002_r223" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 參은 叅 으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0035"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 瞰憩冥壑凌臨諸天. 非惟<annotation id="hg_002_r224" type="교감주">
+                            <noteContent>최남선본에는 惟는 唯로 되어 있다.</noteContent>
+                        </annotation>規範當時亦欲陶津來世. 志切遊觀不殫遊<annotation id="hg_002_r225" type="교감주">
+                            <noteContent>소화2년 불교사간 대동선교고 합간본에는 遊作遠으로 되어 있다. </noteContent>
+                        </annotation>邈. 遂求法於<index type="지명">西竺</index>乃遐登於葱嶺, 搜奇<annotation id="hg_002_r226" type="교감주">
+                            <noteContent>규장각본에는 奇는 其로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>討勝, 歷見聖蹤, 夙願已圓. 資糧<annotation id="hg_002_r227" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 糧은 粮으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>時絕, 乃止那爛陀<annotation id="hg_002_r228" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본, 천견윤태랑본에는 陀는 陁로 되어 있다. </noteContent>
+                        </annotation>寺未幾終焉.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0070_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>신라의 서역 구법승 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0627-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0017" end="hg_a_002_0017">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0017" end="hg_b_002_0018">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0018" end="hg_c_002_0018">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">是時<index type="이름">高□<annotation id="hg_002_r229" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 □는 僧으로 되어 있다. ·≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰空字恐僧字로 되어 있다.  <br/>천견윤태랑본에는 □는 ■로 되어 있다.(■는 판독불가) <illustration>
+                                        <image align="center" src="hg_kyu_002_0036"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_cns_002_0016"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>專<annotation id="hg_002_r230" type="교감주">
+                                <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書) 제2에는 專은 惠로 되어 있다. <illustration>
+                                        <image align="center" src="hg_cns_002_0016"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>業</index>住菩提寺, <index type="이름">玄恪</index>·                        <index type="이름">玄照</index>至大覺寺, 此<annotation id="hg_002_r231" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 此는 以로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>上四人竝<annotation id="hg_002_r232" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 竝은 幷으로 되어 있다.   <br/>천견윤태랑본에는 竝은 並으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>於貞觀年中有此<annotation id="hg_002_r233" type="교감주">
+                            <noteContent>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰新羅僧八人入竺事見大唐求法高僧傳으로 되어 있다. </noteContent>
+                        </annotation>行也. 共植勝因,<annotation id="hg_002_r234" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 因은 囙으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 聿豊釋種遙謝舊域往<annotation id="hg_002_r235" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>見<index type="지명">竺</index>風. 騰茂譽於東西垂鴻休於罔極, 非大心上輩其何預此乎. 按年譜, 似與<index type="이름">玄奘三藏</index>
+                        <annotation id="hg_002_r236" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>同發指<index type="국명">西國</index>, 但不知第<annotation id="hg_002_r237" type="교감주">
+                            <noteContent>규장각본에는 第는 苐로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>何年耳.<annotation id="hg_002_r238" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 耳가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0036"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                    </paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0080">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋惠業</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0080_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>혜업의 서역 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0018" end="hg_a_002_0018">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0018" end="hg_b_002_0019">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0018" end="hg_c_002_0019">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">惠業</index>器<annotation id="hg_002_r239" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 器는 哭으로 되어 있다.  <br/>최남선본에는 器는 噐로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0037"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>局冲深, 氣度凝深.<annotation id="hg_002_r240" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 深이 빠져있다.  <br/>천견윤태랑본, 소화2년 불교사간 대동선교고 합간본에는에는 深을 遠으로 교정하였다. <br/>최남선본에는 深은 遠으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0037"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>巉<annotation id="hg_002_r241" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 巉은 峻으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0016"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>巖<annotation id="hg_002_r242" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 巖은 巗으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0037"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>容儀, 戌削風骨. 直辭<annotation id="hg_002_r243" type="교감주">
+                            <noteContent>천견윤태랑본에는 辭는 辞로 되어 있다. </noteContent>
+                        </annotation>邊壤遽入中華, 遂<annotation id="hg_002_r244" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 遂는 遊로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0037"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>於貞觀年中往<annotation id="hg_002_r245" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0037"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>遊<index type="지명">西域</index>, 渉流<annotation id="hg_002_r246" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 流는 遊로 되어 있다.   </noteContent>
+                        </annotation>沙之廣漠登雪嶺之嶔岑. 每以淸暉啓曙卽潜伏幽林, 皓月淪霄乃崩波<annotation id="hg_002_r247" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 波가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>永路. 輕生徇法, 志切宣通. 遂<annotation id="hg_002_r248" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 遂는 遊로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>往<annotation id="hg_002_r249" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>菩提寺觀禮聖蹤, 又於那爛陀<annotation id="hg_002_r250" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 陀는 陁로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>寺寄跡棲<annotation id="hg_002_r251" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 棲는 捷으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>眞久之. 請讀<index type="서명">淨<annotation id="hg_002_r252" type="교감주">
+                                <noteContent>천견윤태랑본에는 淨은 凈으로 되어 있다. </noteContent>
+                            </annotation>名經</index>因撿<annotation id="hg_002_r253" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 撿은 檢으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>唐本淹通綸貫. <index type="서명">梁論</index>下記云, “在佛齒樹下新羅僧<index type="이름">惠業</index>寫記”, 傳<annotation id="hg_002_r254" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본, ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書) 제2에는 傳은 傅로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>云 “業終于是寺年將六十餘矣. 所寫梵本竝<annotation id="hg_002_r255" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 竝은 幷으로 되어 있다.   <br/>천견윤태랑본에는 竝은 並으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0017"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>在那爛陀<annotation id="hg_002_r256" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 陀는 陁로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0038"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>寺焉.”</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0090">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋惠輪</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0090_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>혜륜의 서역 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0018" end="hg_a_002_0019">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0019" end="hg_b_002_0019">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0019" end="hg_c_002_0020">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">惠輪</index>新羅人, 梵名<index type="이름">般若跋摩.</index>
+                        <annotation type="원주">
+                            <noteContent>
+                                <index type="국명">唐</index>云<index type="이름">惠甲</index>.                                <annotation id="hg_002_r257" type="교감주">
+                                    <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본,소화2년 불교사간 대동선교고 합간본에는 甲은 申으로 되어 있다.  ≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰甲原本作申非也로 되어 있다. <illustration>
+                                            <image align="center" src="hg_kyu_002_0039"/>
+                                        </illustration>
+                                        <illustration>
+                                            <image align="center" src="hg_cns_002_0018"/>
+                                        </illustration>
+                                    </noteContent>
+                                </annotation>
+                            </noteContent>
+                        </annotation>自本國出家翹心聖境, 泛舶而凌<annotation id="hg_002_r258" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 凌은 淩으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0039"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>閩越涉步而屆<annotation id="hg_002_r259" type="교감주">
+                            <noteContent>천견윤태랑본, 최남선본에는 屆는 届로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_cns_002_0018"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>長安, 寒暑備受艱危罄盡. 奉勅<annotation id="hg_002_r260" type="교감주">
+                            <noteContent>최남선본에는 勅은 勑으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_cns_002_0018"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>隨<index type="이름">玄照法師</index>西行充<annotation id="hg_002_r261" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 充은 克으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0039"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>侍飛梯架險. 旣至<index type="국명">西國</index>遍禮奇蹤, 寓居<index type="국명">菴摩羅波<annotation id="hg_002_r262" type="교감주">
+                                <noteContent>≪신수대장경(新修大藏經)≫제50권, ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書)≫제2에는 註曰波求法傳作跛宋元明三本作跋國屬中天或可로 되어 있다. </noteContent>
+                            </annotation>國</index>信者寺淹住十載. 近住次東邊犍陀<annotation id="hg_002_r263" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 犍陀는 楗陁로 되어 있다.<br/>천견윤태랑본에는 犍陀는 揵陁로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0040"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>羅山茶寺. 貲<annotation id="hg_002_r264" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 貲는 貨로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0018"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>產豐饒供養飡設餘莫加也. 其北<annotation id="hg_002_r265" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 北은 比로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0040"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>方胡僧往<annotation id="hg_002_r266" type="교감주">
+                            <noteContent>최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0018"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>來<annotation id="hg_002_r267" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 往來는 來往으로 되어 있다.<br/>천견윤태랑본에는 往來은 來徃으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0040"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>者皆住此寺, 蜂屯雲集各修法門. <index type="이름">輪</index>既善梵言薄閑<index type="서명">俱舍</index>. 來日尚在, 年向四十矣. 具如義淨<annotation id="hg_002_r268" type="교감주">
+                            <noteContent>천견윤태랑본에는 淨은 凈으로 되어 있다. </noteContent>
+                        </annotation>
+                        <index type="이름">三藏</index>
+                        <annotation id="hg_002_r269" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>
+                        <index type="서명">求法高僧傳</index>中.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0100">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋玄恪</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0100_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>현각의 서역 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0019" end="hg_a_002_0020">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0019" end="hg_b_002_0020">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0020" end="hg_c_002_0021">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">玄恪</index>新羅人. 嶷然孤硬具大知見. 性喜講說赴感隨機, 時人指爲火中芙蓉也. 常歎<annotation id="hg_002_r270" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 歎은 嘆으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>受生邊地未覩中華聞風而悅木道. 乃屆<annotation id="hg_002_r271" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 屆는 届로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>敻目<annotation id="hg_002_r272" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 소화2년 불교사간 대동선교고 합간본目은 自로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>東圻遂含西笑, 心慚<annotation id="hg_002_r273" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 慚은 慙으로 되어 있다.   <br/>최남선본, 소화2년 불교사간 대동선교고 합간본에는 慚은 暫으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>中晝.<annotation id="hg_002_r274" type="교감주">
+                            <noteContent>최남선본, 소화2년 불교사간 대동선교고 합간본에는 晝는 畫로 되어 있다. <illustration>
+                                    <image align="center" src="hg_cns_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 志要歷參,<annotation id="hg_002_r275" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 參은 叅으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 比猶月行午夜任運而轉. 或層岩<annotation id="hg_002_r276" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 岩은 巖으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>四合鳥道雲齊,<annotation id="hg_002_r277" type="교감주">
+                            <noteContent>천견윤태랑본에는 雲齊를 齊雲으로 교정하였다. </noteContent>
+                        </annotation> 或連氷千里風行雲臥. 遂與<index type="이름">玄照法師</index>相隨至<index type="지명">西乾</index>大覺寺, 遊滿焰<annotation id="hg_002_r278" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본, 소화2년 불교사간 대동선교고 합간본에는 焰은 燄으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0041"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>之路, 賞無影之邦. 負笈精研, 琢玉成器.<annotation id="hg_002_r279" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 器는 哭으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0042"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 年過不惑遇疾乃亡.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0100_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>현조와 두 명의 신라승 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0020" end="hg_a_002_0020">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0020" end="hg_b_002_0020">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0021" end="hg_c_002_0021">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="이름">玄照</index>者亦新羅之高士也. 與<index type="이름">恪</index>同科始終一揆未詳所卒. 復<annotation id="hg_002_r280" type="교감주">
+                            <noteContent>최남선본에는 復은 優로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0019"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>有新羅僧二人莫知其名發自長安泛泊至<index type="국명">室利佛逝國</index>遇疾俱亡.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0110">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋玄遊</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0110_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>현유의 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0020" end="hg_a_002_0020">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0020" end="hg_b_002_0021">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0021" end="hg_c_002_0021">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">玄遊</index>
+                        <index type="국명">句高麗</index>
+                        <annotation id="hg_002_r281" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 소화2년 불교사간 대동선교고 합간본에는 句高麗는 高句麗로 되어 있다.  <br/>≪삼국사기≫ 권13 고구려본기 1에 의하면 高句麗가 맞다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_sgsg_001_0001"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>人. 叶性<annotation id="hg_002_r282" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 性이 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>虛融, 禀質溫雅, 意存二利, 志重詢求. 乘盃<annotation id="hg_002_r283" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 盃는 杯로 되어 있다.  <br/>천견윤태랑본에는 盃를 杯로 교정하였다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>泝流考室幽壑. 入<index type="국명">唐</index>禮事<index type="이름">僧哲禪師</index>, 摳衣禀旨.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0110_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>승철의 구법 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0020" end="hg_a_002_0021">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0021" end="hg_b_002_0021">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0021" end="hg_c_002_0021">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="이름">哲</index>思慕聖蹤泛舶<index type="지명">西域</index>適化隨緣, 巡禮略<annotation id="hg_002_r284" type="교감주">
+                            <noteContent>규장각본, 최남선본에는 略은 畧으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0020"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>周歸<index type="지명">東印道</index>. 遊常隨附鳳因<annotation id="hg_002_r285" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 因은 囙으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>住於彼. 慧矩<annotation id="hg_002_r286" type="교감주">
+                            <noteContent>최남선본에는 矩는 炬로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_cns_002_0020"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>夙明, 禪枝早茂窮涯盈量. 虛往<annotation id="hg_002_r287" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0020"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>實歸誠佛家之棟樑, 實僧徒之領袖. 既而舟壑潜移悼陵谷之遷質,<annotation id="hg_002_r288" type="교감주">
+                            <noteContent>천견윤태랑본에는 質을 貿로 교정하였다. </noteContent>
+                        </annotation> 居諸易脫<annotation id="hg_002_r289" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 脫은 晩으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0020"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>惻人世之難常, 薪盡火滅復何可追.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0110_0030">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>현유의 공적 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0021" end="hg_a_002_0021">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0021" end="hg_b_002_0022">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0021" end="hg_c_002_0022">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">
+                        <index type="이름">義淨<annotation id="hg_002_r290" type="교감주">
+                                <noteContent>천견윤태랑본에는 淨은 凈으로 되어 있다. </noteContent>
+                            </annotation>三藏</index>
+                        <annotation id="hg_002_r291" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>嘉爾幼年慕法情堅. 既<annotation id="hg_002_r292" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 之難常薪盡火滅復何可追義淨三藏嘉爾幼年慕法情堅既가 빠져있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0043"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>虔誠於<index type="지명">東夏</index>, 復請益於<index type="지명">西天</index>. 重指<index type="지명">神洲</index>爲物淹留傳<annotation id="hg_002_r293" type="교감주">
+                            <noteContent>규장각본, 천견윤태랑본에는 傳은 傅로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0044"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>十法而弘法, 竟千秋而不秋. 雖捐軀異域未返舊都, 彼之功名落落如此, 安得不掛名竹帛以示將來. 遂<annotation id="hg_002_r294" type="교감주">
+                            <noteContent>최남선본에는 遂는 偶로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_cns_002_0020"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>著<index type="서명">求法高僧傳</index>.                        <annotation id="hg_002_r295" type="교감주">
+                            <noteContent>규장각본에는 傳은 傅로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0044"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation> 予<annotation id="hg_002_r296" type="교감주">
+                            <noteContent>조선총독부 중추원 필사본에는 予는 子로 되어 있다. </noteContent>
+                        </annotation>偶覽<index type="서명">大藏</index>
+                        <annotation id="hg_002_r297" type="교감주">
+                            <noteContent>천견윤태랑본에는 藏은 蔵으로 되어 있다. </noteContent>
+                        </annotation>閱至於<annotation id="hg_002_r298" type="교감주">
+                            <noteContent>최남선본에는 於는 于로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_cns_002_0020"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>斯志深嚮慕, 遂抽繹而書之.</paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+    <level2 id="hg_002_0120">
+        <front>
+            <biblioData>
+                <title>
+                    <mainTitle>釋玄大梵</mainTitle>
+                </title>
+            </biblioData>
+        </front>
+        <level3 id="hg_002_0120_0010">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>현태의 구법 </mainTitle>
+                    </title>
+                    <date>
+                        <dateOccured date="0650-99-99L0"/>
+                    </date>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0021" end="hg_a_002_0022">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0022" end="hg_b_002_0022">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0022" end="hg_c_002_0023">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">釋<index type="이름">玄大梵</index>新羅人, 法名<annotation id="hg_002_r299" type="교감주">
+                            <noteContent>한국불교전서의 주석에 의하면 ≪신수대장경(新修大藏經)≫제50권과 ≪대일본불교전서유방총서(大日本佛敎全書遊方叢書) 제2에 의거하여 梵新羅人法名은 新羅人梵名이라 하였다. </noteContent>
+                        </annotation>
+                        <index type="이름">薩婆愼菩<annotation id="hg_002_r300" type="교감주">
+                                <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 菩는 若으로 되어 있다. <illustration>
+                                        <image align="center" src="hg_kyu_002_0045"/>
+                                    </illustration>
+                                    <illustration>
+                                        <image align="center" src="hg_cns_002_0021"/>
+                                    </illustration>
+                                </noteContent>
+                            </annotation>提婆</index>.                        <annotation type="원주">
+                            <noteContent>唐言<index type="이름">一切智天</index>.                                <annotation id="hg_002_r301" type="교감주">
+                                    <noteContent>규장각본, 조선총독부 중추원 필사본에는 天이 빠져있다.  <illustration>
+                                            <image align="center" src="hg_kyu_002_0045"/>
+                                        </illustration>
+                                    </noteContent>
+                                </annotation>
+                            </noteContent>
+                        </annotation>童稚深沈<annotation id="hg_002_r302" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 沈은 沉으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0045"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>有大人相. 不茹葷不□□□□□□□□□□<annotation id="hg_002_r303" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 □□□□□□□□□□는 嬉鬪其入□□□□□如로 되어 있다.   <br/>천견윤태랑본에는 □□□□□□□□□□는 ■鮮其入■□□□□如로 되어 있다.(■는 판독불가) <illustration>
+                                    <image align="center" src="hg_kyu_002_0045"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0021"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>也. 嘗泛舶如<index type="국명">唐</index>, 學問靡常闡奧窮微. 高宗永徽中遂往<annotation id="hg_002_r304" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본, 최남선본에는 往은 徃으로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0045"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0021"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                        <index type="지명">中印度</index>, 禮菩提樹如師子遊行不求<annotation id="hg_002_r305" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본에는 求는 永으로 되어 있다.<illustration>
+                                    <image align="center" src="hg_kyu_002_0045"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>伴侶. 振五樓之金策望三道之寶階. 其所遠慕艱危歷覽風土, 亦未能盡導. 便向大覺寺掛錫詳撿<annotation id="hg_002_r306" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 최남선본에는 撿은 檢으로 되어 있다. <illustration>
+                                    <image align="center" src="hg_kyu_002_0046"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0021"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>經論備省方俗. 後還震旦敷宣法化玄績乃著. 巍巍乎其<annotation id="hg_002_r307" type="교감주">
+                            <noteContent>규장각본, 조선총독부 중추원 필사본, 천견윤태랑본에는 其는 其有로 되어 있다.   <illustration>
+                                    <image align="center" src="hg_kyu_002_0046"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>成功矣.</paragraph>
+                </content>
+            </text>
+        </level3>
+        <level3 id="hg_002_0120_0020">
+            <front>
+                <biblioData>
+                    <title>
+                        <mainTitle>찬하여 말하다 </mainTitle>
+                    </title>
+                    <subjectClass code="as04_01_02_11" scheme="주제">문화＞사상＞불교사상＞구법활동</subjectClass>
+                    <subjectClass code="as04_01_02_02" scheme="주제">문화＞사상＞불교사상＞승려(법명·법호)</subjectClass>
+                </biblioData>
+                <illustGroup>
+                    <illustration begin="hg_a_002_0022" end="hg_a_002_0022">
+                        <caption>천견윤태랑본</caption>
+                    </illustration>
+                    <illustration begin="hg_b_002_0022" end="hg_b_002_0023">
+                        <caption>국사편찬위원회본</caption>
+                    </illustration>
+                    <illustration begin="hg_c_002_0023" end="hg_c_002_0023">
+                        <caption>중추원본</caption>
+                    </illustration>
+                </illustGroup>
+            </front>
+            <text>
+                <content>
+                    <paragraph align="center">賛曰. 此上數人邈若<index type="지명">靑徼</index>徑入中華, 追<index type="이름">法顯</index>·                        <index type="이름">玄奘</index>
+                        <annotation id="hg_002_r308" type="교감주">
+                            <noteContent>천견윤태랑본에는 焚을 奘으로 교정하였다. </noteContent>
+                        </annotation>之逸跡. 朅來絕域視如里巷, 比之奉使<index type="이름">張騫</index>
+                        <index type="이름">蘇武</index>之類乎.<annotation id="hg_002_r309" type="교감주">
+                            <noteContent>국사편찬위원회 소장본에는 없으나 규장각본, 조선총독부 중추원 필사본, 한국불교전서에는 海東高僧傳卷第二終으로 되어 있다.   <br/>천견윤태랑본에는 卷之를 卷苐로 교정하였다. <br/>천견윤태랑본에는 終이 빠져있다. <br/>최남선본에는 海東高僧傳卷第二[終]으로 되어 있다.  <illustration>
+                                    <image align="center" src="hg_kyu_002_0047"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_bgjs_002_0012"/>
+                                </illustration>
+                                <illustration>
+                                    <image align="center" src="hg_cns_002_0022"/>
+                                </illustration>
+                            </noteContent>
+                        </annotation>
+                    </paragraph>
+                </content>
+            </text>
+        </level3>
+    </level2>
+</level1>
