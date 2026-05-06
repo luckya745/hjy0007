@@ -1,52 +1,40 @@
 import streamlit as st
 import streamlit.components.v1 as components
 import os
+import base64
 
-# 1. 페이지 레이아웃 설정
-st.set_page_config(
-    page_title="해동고승전 데이터베이스", 
-    layout="wide", 
-    initial_sidebar_state="collapsed"
-)
+# 1. 페이지 설정
+st.set_page_config(page_title="해동고승전", layout="wide")
 
-# 2. Streamlit 고유 여백 및 배경색 강제 제거 (최신 브라우저 대응)
+# 2. Streamlit 기본 여백 제거 및 배경색 설정
 st.markdown("""
     <style>
-    /* 전체 화면 여백 제거 */
-    .block-container {
-        padding: 0rem !important;
-        max-width: 100% !important;
-    }
-    header, footer, #MainMenu {
-        display: none !important;
-    }
-    /* 배경색 동기화 (검은색 사이드바와 어울리도록) */
-    .main {
-        background-color: #1a1a1a !important;
-    }
-    iframe {
-        display: block;
-    }
+    .block-container { padding: 0rem !important; }
+    header, footer { display: none !important; }
+    .main { background-color: #1a1a1a !important; }
+    iframe { border: none !important; width: 100%; }
     </style>
     """, unsafe_allow_html=True)
 
-# 파일 읽기 함수
 def get_file_content(file_path):
     if os.path.exists(file_path):
         with open(file_path, "r", encoding="utf-8") as f:
             return f.read()
     return ""
 
-# 각 소스 파일 로드
+# 파일 로드
 html_layout = get_file_content("index.html")
 css_style = get_file_content("styles.css")
 js_data = get_file_content("data.js")
 js_app = get_file_content("app.js")
 
-# 3. 통합 HTML 구성 (비동기 로딩 방지 로직 포함)
+# 3. 데이터와 앱 로직을 각각의 Base64 스크립트로 변환 (안정성 확보)
+data_b64 = base64.b64encode(js_data.encode('utf-8')).decode('utf-8')
+app_b64 = base64.b64encode(js_app.encode('utf-8')).decode('utf-8')
+
 combined_html = f"""
 <!DOCTYPE html>
-<html style="margin: 0; padding: 0;">
+<html>
 <head>
     <meta charset="utf-8">
     <style>
@@ -57,30 +45,24 @@ combined_html = f"""
 <body>
     {html_layout}
 
-    <!-- 1. 데이터 주입 -->
-    <script>
-    {js_data}
-    </script>
+    <!-- 1. 대용량 데이터를 메모리에 먼저 주입 (Base64 방식) -->
+    <script src="data:text/javascript;base64,{data_b64}"></script>
 
-    <!-- 2. 데이터 확인 후 앱 실행 로직 -->
+    <!-- 2. 데이터 로드 확인 후 앱 실행 -->
     <script>
     (function() {{
-        function startApp() {{
-            // 'data' 변수 혹은 data.js에서 정의한 핵심 변수명이 존재하는지 체크
-            if (typeof data !== 'undefined' || window.data) {{
-                console.log("데이터 로드 완료. 앱을 시작합니다.");
-                {js_app}
-            }} else {{
-                console.log("데이터를 기다리는 중...");
-                setTimeout(startApp, 100); // 0.1초 후에 다시 확인
-            }}
+        function init() {{
+            // data.js 내의 전역 변수가 로드되었는지 확인 (변수명이 data가 아닐 경우 수정 필요)
+            const script = document.createElement('script');
+            script.src = "data:text/javascript;base64,{app_b64}";
+            document.body.appendChild(script);
+            console.log("App script injected.");
         }}
 
-        // 페이지 로드 후 실행 시작
         if (document.readyState === 'complete') {{
-            startApp();
+            init();
         }} else {{
-            window.addEventListener('load', startApp);
+            window.addEventListener('load', init);
         }}
     }})();
     </script>
@@ -88,5 +70,5 @@ combined_html = f"""
 </html>
 """
 
-# 4. 출력 (높이는 필요에 따라 1200~1500으로 조절)
-components.html(combined_html, height=1200, scrolling=True)
+# 4. 출력 (높이는 콘텐츠 양에 따라 1500 이상으로 넉넉히 잡으셔도 됩니다)
+components.html(combined_html, height=1500, scrolling=True)
